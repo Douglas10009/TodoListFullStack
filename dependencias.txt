@@ -1,0 +1,25 @@
+-- Para liberar o acesso a dependencia
+npm install cors
+
+-- O express básicao
+npm install express --save
+
+-- Acesso ao banco de dados
+npm install mysql2 --save
+
+-- Tratar de variaveis de ambiente
+npm install dotenv --save
+
+-- Formatar o documento
+npm install eslint 
+
+-- rodar mais rápido o servidor, reinicia qnd altera as configurações
+npm install nodemon -d
+
+
+npm install cors
+npm install express --save
+npm install mysql2 --save
+npm install dotenv --save
+npm install eslint 
+npm install nodemon -d
